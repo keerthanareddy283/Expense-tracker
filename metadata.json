@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise - Personal Expense & Budget Tracker",
+  "description": "Production-grade personal finance dashboard with transaction tracking, category budgeting, visual analytics, recurring payments, and plain-language financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
